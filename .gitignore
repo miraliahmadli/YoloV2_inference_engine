@@ -1,0 +1,5 @@
+.vscode
+*__pycache__*
+*intermediate
+*output.mp4
+*sample_output.jpg
