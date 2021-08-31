@@ -2,7 +2,7 @@
 Projects for __CS492 Systems for Machine Learning__ course, Spring 2020, KAIST
 
 ## About
-Repositiry
+This repository includes implementations of essential layers to infer YOLOv2 model. Layers has been implemented in using only python `numpy` API as well as using CPU and GPU parallelization techniques.
 
 ## Table of Contents:
 + data
